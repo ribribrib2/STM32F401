@@ -1,0 +1,13 @@
+stm32f401_1291\afe4404_hw.o: ..\PPS964\src\afe4404_hw.c
+stm32f401_1291\afe4404_hw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f401_1291\afe4404_hw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32f401_1291\afe4404_hw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32f401_1291\afe4404_hw.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\afe4404_hw.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\hqerror.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\phys_calc.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\pp_config.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\agc_V3_1_19.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\phys_calc.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\pps960.h
+stm32f401_1291\afe4404_hw.o: ..\PPS964\inc\level1metrics_calc.h

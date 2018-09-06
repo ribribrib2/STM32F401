@@ -1,0 +1,9 @@
+stm32f401_1291\agc_v3_1_19.o: ..\PPS964\src\agc_V3_1_19.c
+stm32f401_1291\agc_v3_1_19.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32f401_1291\agc_v3_1_19.o: ..\PPS964\inc\afe4404_hw.h
+stm32f401_1291\agc_v3_1_19.o: ..\PPS964\inc\hqerror.h
+stm32f401_1291\agc_v3_1_19.o: ..\PPS964\inc\phys_calc.h
+stm32f401_1291\agc_v3_1_19.o: ..\PPS964\inc\pp_config.h
+stm32f401_1291\agc_v3_1_19.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32f401_1291\agc_v3_1_19.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f401_1291\agc_v3_1_19.o: ..\PPS964\inc\agc_V3_1_19.h
